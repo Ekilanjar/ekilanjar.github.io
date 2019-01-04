@@ -1,0 +1,231 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-image: url(foto/perkebunan_teh.jpg);
+	background-repeat: no-repeat;
+	background-size: 1500px 1515px;
+}
+.container{
+	width: 850px;
+	background-color: #05AA09;
+	margin: 0px auto;
+	margin-top: 20px;
+	border: solid;
+	margin-bottom: 20px;
+}
+.header{
+	width: 840px;
+	height: 150px;
+	margin: 5px;
+	background-color: lime;
+}
+.jarak1{
+	padding-top: 1px;
+}
+.header1{
+	width: 135px;
+	height: 135px;
+	margin-left: 20px;
+	margin-top: 6px;
+	border-radius: 15px;
+	background-image: url(foto/logo.jpg);
+	background-size: 135px 135px;
+	background-color: white;
+}
+.header2{
+	float: left;
+	margin-left: 200px;
+	margin-top: -75px;
+	color: blue;
+}
+.konten{
+	width: 840px;
+	height: 400px;
+	margin: 5px;
+	background-color: #046619;
+}
+.konten1{
+	width: 830px;
+	height: 390px;
+	margin: 5px;
+	color: black;
+	border-radius: 30px;
+	background-image: url(foto/kebun_teh.jpg);
+	background-size: 830px 390px;
+	background-color: #46FF8C;
+}
+.kntn{
+	height: 200px;
+	width: 200px;
+	margin: auto;
+	margin-top: 80px;
+	margin-bottom: 20px;
+	border-radius: 30px;
+	color: black;
+	background-image: url(foto/logo.jpg);
+	background-size: 200px 200px;
+	background-color: #0AFE49;
+}
+.tengah{
+	width: 840px;
+	height: 400px;
+	margin: 5px;
+	background-color: #046619;
+}
+.tengah1{
+	float: right;
+	color: blue;
+	font-size: 20px;
+}
+.tengah2{
+	width: 200px;
+	height: 200px;
+	margin-top: 100px;
+	margin-left: 50px;
+	color: black;
+	background-color: #0AFE49;
+	background-image: url(foto/produk.jpg);
+	background-size: 200px 200px;
+	border-radius: 30px;
+}
+.tengah3{
+	width: 500px;
+	/*height: 150px;*/
+	background-color: #9EFF21;
+	float: right;
+	margin-top: -200px;
+	margin-right: 50px;
+	text-align: justify;
+}
+.produk{
+	width: 840px;
+	height: 400px;
+	margin: 5px;
+	background-color: #046619;
+}
+.produk1{
+	color: white;
+	font-size: 20px;
+	margin-left: 330px;
+}
+.produk2{
+	width: 150px;
+	height: 150px;
+	background-color: lime;
+	margin-left: 50px;
+	margin-top: 15px;
+	background-image: url(foto/teh_sariwangi.jpg);
+	background-size: 150px 150px;
+	border-radius: 30px;
+}
+.produk3{
+	float: left;
+	width: 150px;
+	height: 150px;
+	background-color: lime;
+	background-size: 150px 150px;
+	background-image: url(foto/teh_hijau_asli.jpg);
+	margin-left: 300px;
+	margin-top: -150px;
+	border-radius: 30px;
+}
+.produk4{
+	float: left;
+	width: 150px;
+	height: 150px;
+	background-color: lime;
+	background-size: 150px 150px;
+	background-image: url(foto/teh_sarimurni.jpg);
+	margin-left: 570px;
+	border-radius: 30px;
+	margin-top: -150px;
+}
+.prdk{
+	width: 150px;
+	margin-left: 50px;
+	text-align: justify;
+	color: gold;
+}
+.prdk1{
+	float: left;
+	width: 150px;
+	margin-left: 300px;
+	margin-top: -170px;
+	text-align: justify;
+	color: gold;
+}
+.prdk2{
+	float: left;
+	width: 150px;
+	margin-left: 120px;
+	margin-top: -170px;
+	text-align: justify;
+	color: gold;
+}
+.footer{
+	width: 840px;
+	height: 70px;
+	background-color: #99FCD8;
+	margin: 5px;
+}
+.footer1{
+	margin-left: 5px;
+	margin-top: 25px;
+}
+.footer2{
+	float: left;
+	margin-top: -18px;
+	margin-left: 120px;
+}
+.footer3{
+	float: left;
+	margin-top: -18px;
+	margin-left: 10px;
+}
+.footer4{
+	float: left;
+	margin-top: -18px;
+	margin-left: 5px;
+}
+.footer5{
+	float: left;
+	margin-top: -19px;
+	margin-left: 450px;
+}
+.footer6{
+	float: left;
+	margin-top: -18px;
+	margin-left: 550px;
+}
+.gambar{
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-top: -35px;
+	margin-left: 650px;
+	background-image: url(foto/fb.png);
+	background-size: 50px 50px;
+}
+.gambar1{
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-top: -35px;
+	margin-left: 5px;
+	background-image: url(foto/ig.png);
+	background-size: 50px 50px;
+}
+.gambar2{
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-top: -35px;
+	margin-left: 3px;
+	background-image: url(foto/yt.png);
+	background-size: 50px 50px;
+}
+.copy{
+	width: 840px;
+	height: 20px;
+	background-color: #05AA09;
+}
